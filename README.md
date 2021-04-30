@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/enzobusca" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/1259px-Twitter_bird_logo_2012.svg.png" alt="enzobusca" height="30" width="40" /></a>
+<a href="https://twitter.com/enzobusca" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/1259px-Twitter_bird_logo_2012.svg.png" alt="enzobusca" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/enzo-festorazzi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="enzo-festorazzi" height="30" width="30" /></a>
 </p>
 
